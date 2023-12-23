@@ -1,3 +1,4 @@
+<h1 align="center">LegendNation</h1>
 <h3 align="center">A Minecraft Server</h3>
 
 - 📫 How to reach me **contact@legendnation.gg**
