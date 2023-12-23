@@ -1,10 +1,10 @@
-## Hi there 👋
+<h3 align="center">A Minecraft Server</h3>
 
+- 📫 How to reach me **contact@legendnation.gg**
 
-**Here are some ideas to get you started:**
+- ⚡ Join our Discord **Click [here](https://vylx.net/go/legendnation)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/legendnationmc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="legendnationmc" height="30" width="40" /></a>
+</p>
