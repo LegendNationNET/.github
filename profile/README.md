@@ -3,7 +3,6 @@
 ###
 
 <h2 align="left">About us</h2>
-###
 Welcome to LegendNation, a Minecraft server built to offer a unique, player-driven experience. Based on the latest versions of Minecraft, we provide a growing selection of game modes and features, continually evolving to meet the needs of our community. Our development team is focused on delivering high-quality, innovative content and ensuring a smooth, lag-free gaming experience.
 
 ### Game Modes
